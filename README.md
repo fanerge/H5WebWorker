@@ -1,5 +1,6 @@
 # H5WebWorker
 博客-Web Worker的demo示例
+[你可以直接点击demo页面进行测试](https://fanerge.github.io/H5WebWorker/static/)
 # How to use
 ##	cd H5WebWorker	
 ##	npm install
